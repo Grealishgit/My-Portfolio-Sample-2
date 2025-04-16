@@ -4,9 +4,6 @@ export const Typing = () => {
     return (
         <TypeAnimation className='text-amber-500'
             sequence={[
-
-                'Hello there👋! Am Eugene | Khanda.',
-                1000,
                 'A frontend developer from Nairobi, Kenya.',
                 1000,
                 'I develop user based interfaces',

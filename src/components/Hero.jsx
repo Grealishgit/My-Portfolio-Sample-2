@@ -22,7 +22,7 @@ const Hero = () => {
 
         <div className="mt-28 md:mt-5 lg:5">
           <h1 className={`${styles.heroHeadText} text-white`}>
-            Hi 👋, I'm <span className='text-amber-500'>Eugene.</span>
+            Hi 👋, I'm <span className='text-white'>Eugene.</span>
           </h1>
           <Typing />
 
